@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>justrelease-maven-plugin</name>
+      <prefix>justrelease</prefix>
+      <artifactId>justrelease-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
